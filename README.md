@@ -20,7 +20,9 @@ Members:
 
 ## Modules Used
 > Tkinter
+
 > Pygame
+
 > Random
 
 ## Future plans about the Project
