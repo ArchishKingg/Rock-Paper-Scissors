@@ -18,6 +18,11 @@ Members:
 ## Languages Used
 > Python
 
+## Modules Used
+> Tkinter
+> Pygame
+> Random
+
 ## Future plans about the Project
 > If we see successful results about the game. We will try to improve it. We may try to make a android version for the game.
 
